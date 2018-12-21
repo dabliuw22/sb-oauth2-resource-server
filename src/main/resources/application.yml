@@ -1,0 +1,9 @@
+server:
+  port: 8080
+      
+security:
+  username: user
+  password: user.password
+  
+jwt:
+  signature: jwt.signature.secure.jwt.my-signature.key
